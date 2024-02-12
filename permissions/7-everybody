@@ -1,2 +1,2 @@
 #!/bin/bash
-777 hello
+hello && chmod 640 hello &&
